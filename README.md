@@ -1,6 +1,7 @@
 # Simple TUI – Terminal UI
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)  ![Python](https://img.shields.io/badge/python-3.x-blue.svg) 
+
 **Autor**: [xqi1337](https://github.com/xqi1337)  
 **Version**: v1.1  
 **Letztes Update**: 10.04.2025
