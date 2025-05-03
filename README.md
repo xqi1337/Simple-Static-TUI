@@ -63,7 +63,7 @@ pip install colorama
 ### Projekt klonen
 
 ```bash
-git clone https://github.com/xqi1337/Simple-Static-TUI/.git
+git clone https://github.com/xqi1337/Simple-Static-TUI.git
 cd Simple-Static-TUI
 python main.py
 ```
