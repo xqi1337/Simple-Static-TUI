@@ -71,8 +71,8 @@ python main.py
 ```bash
 projekt/
 ├── main.py              # Hauptprogramm mit UI-Logik und Aufgaben
-├── output.txt           # Generierte Zufallszahlen (nach Ausführung)
-└─ processed_output.txt  # Ergebnisdatei (nach Ausführung)
+├── output.txt           # Generierte Zufallszahlen 
+└─ processed_output.txt  # Ergebnisdatei
 ```
 
 ---
